@@ -8,5 +8,8 @@
 </head>
 <body>
     <h2>Kms M Avrieldi Remote</h2>
+    <table>
+        <th></th>
+    </table>
 </body>
 </html>
